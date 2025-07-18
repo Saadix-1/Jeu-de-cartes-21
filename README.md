@@ -74,9 +74,9 @@ java Game
 
 ---
 
-## 📝 License
-
-This project is licensed under the MIT License.
+## Screenshots 
+<img width="1512" height="861" alt="Screenshot 2025-07-18 at 11 20 39" src="https://github.com/user-attachments/assets/2e855231-bc0f-43d5-b35b-e72beb715cec" />
+<img width="1512" height="258" alt="Screenshot 2025-07-18 at 11 20 47" src="https://github.com/user-attachments/assets/c4550920-8a7f-42a0-b764-86f3fe7e828f" />
 
 ---
 
